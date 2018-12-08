@@ -1,0 +1,145 @@
+Room Name: Dead Room
+Room Description: Unfortunately, you fell into a bottomless pit and got speared 50 times in the chest.  You died.
+Exit Rooms:
+Object Inventory:
+Character Inventory:
+Room Name: Fun Room
+Room Description: Rainbows, sunshine and unicorns flying in the sky
+Exit Rooms: E-Riddle Room
+Object Inventory: Pizza, Helicopterkey
+Character Inventory:
+Room Name: Riddle Room
+Room Description: There are two doors in front of you.  One leads to the fun room and the other leads to the death room. Two trolls block the path, one always lies, one always tells the truth. You can ask one of them only one yes/no question to figure out where to go.
+Exit Rooms: N-Dead Room, W-Fun Room, E-Elevator Shaft 0
+Object Inventory: Apple, Doughnut, Computer, Helicopterkey
+Character Inventory: Truthfultroll, Lyingtroll
+Room Name: Elevator 0
+Room Description: You are in the elevator.
+Exit Rooms: U-Elevator 1, W-Riddle Room
+Object Inventory:
+Character Inventory:
+Room Name: Entrance Hallway
+Room Description: This is the entrance hallway
+Exit Rooms: N-Garage, E-Hallway, W-Outside
+Object Inventory: Pizza, Doughnut, Computer, Shovel
+Character Inventory: 
+Room Name: Garage
+Room Description: This is the garage, which stores plenty of hydrochloric acid for your convenience.
+Exit Rooms: S-Entrance Hallway
+Object Inventory: Hydrochloricacid
+Character Inventory:
+Room Name: Hallway
+Room Description: You are in a hallway
+Exit Rooms: W-Entrance Hallway, N-Family Room, E-Dining Room
+Object Inventory:
+Character Inventory:
+Room Name: Dining Room
+Room Description: You are in dining room
+Exit Rooms: W-Hallway, E-Hallway 2, N-Kitchen
+Object Inventory: Doughnut, Pizza
+Character Inventory:
+Room Name: Kitchen
+Room Description: You are in kitchen
+Exit Rooms: S-Dining Room, W-Family Room, N-Washroom
+Object Inventory: Pizza, Apple, Carrot
+Character Inventory:
+Room Name: Hallway 2
+Room Description: You are in a hallway
+Exit Rooms: E-Elevator 1, N-Horseracing, W-Dining Room
+Object Inventory:
+Character Inventory:
+Room Name: Horseracing
+Room Description:  You are in the horse racing stadium. Try your luck and bet on a horse.
+Exit Rooms: S-Hallway 2
+Object Inventory: Computer, Helicopterkey
+Character Inventory:
+Room Name: Washroom
+Room Description: You are in washroom
+Exit Rooms: S-Kitchen
+Object Inventory:
+Character Inventory:
+Room Name: Study Room
+Room Description: You are in study room
+Exit Rooms: W-Garden, S-Family Room
+Object Inventory: Computer, Doughnut, Carrot
+Character Inventory:
+Room Name: Garden
+Room Description: You are in garden
+Exit Rooms: E-Study Room
+Object Inventory: Helicopterkey
+Character Inventory:
+Room Name: Elevator 1
+Room Description: You are in the elevator
+Exit Rooms: W-Hallway 2, U-Elevator 2, D-Elevator 0
+Object Inventory:
+Character Inventory:
+Room Name: Family Room
+Room Description: You are in family room
+Exit Rooms: N-Study Room, S-Hallway, E-Kitchen
+Object Inventory: Metaldetector
+Character Inventory:
+Room Name: Treasure Room
+Room Description: You are the Treasure Room. Search at an (x,y,z) coordinate for the helicopter key.
+Exit Rooms: E-Hallway 3
+Object Inventory: Helicopterkey, Carrot
+Character Inventory:
+Room Name: Jail
+Room Description: You are in jail
+Exit Rooms:
+Object Inventory:
+Character Inventory:
+Room Name: Attic
+Room Description: You are in the attic
+Exit Rooms: W-Jail, S-Hallway 3
+Object Inventory:
+Character Inventory:
+Room Name: Hallway 3
+Room Description: You are in a hallway
+Exit Rooms: N-Attic, W-Treasure Room, E-Closet, S-School
+Object Inventory:
+Character Inventory:
+Room Name: School
+Room Description: You are in school, answer a question and you are in for a treat. What is the real root of 2x^3+21x^2+61x+84 ?
+Exit Rooms: N-Hallway 3, E-Elevator 2
+Object Inventory: Computer, Helicopterkey, Apple
+Character Inventory:
+Room Name: Closet
+Room Description: You are in the closet
+Exit Rooms: S-Cellar, W-Hallway 3
+Object Inventory:
+Character Inventory:
+Room Name: Cellar
+Room Description: You are in the cellar
+Exit Rooms: N-Closet, W-Hallway 3
+Object Inventory: Apple, Doughnut, Carrot, Pizza
+Character Inventory:
+Room Name: Elevator 2
+Room Description: You are in the elevator
+Exit Rooms: U-Elevator 3, D-Elevator 1, W-School
+Object Inventory:
+Character Inventory:
+Room Name: Elevator 3
+Room Description: You are in the elevator 
+Exit Rooms: D-Elevator 2, W-Casino
+Object Inventory:
+Character Inventory:
+Room Name: Casino
+Room Description: Feeling lucky for a game of Blackjack?
+Exit Rooms: N-Helicopter Pad, E-Elevator 3
+Object Inventory: Helicopterkey, Pizza
+Character Inventory:
+Room Name: Helicopter Pad
+Room Description: You are at the helicopter pad
+Exit Rooms: N-Spa, S-Casino
+Object Inventory:
+Character Inventory:
+Room Name: Spa
+Room Description: You are in the spa
+Exit Rooms: S-Helicopter Pad
+Object Inventory: Doughnut
+Character Inventory:
+Room Name: Outside
+Room Description: The great outdoors
+Exit Rooms: 
+Object Inventory:
+Character Inventory: Drrick
